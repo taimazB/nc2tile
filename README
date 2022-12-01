@@ -2,4 +2,5 @@ Converts CIOPS Salish Sea nc files into colored tiles
 
 To run: python3 cnv.py date forcastHour modelHour
 
-eg: python3 cnv.py 20221201 0 1
+Example for the included sample file:
+python3 cnv.py 20221201 0 1
